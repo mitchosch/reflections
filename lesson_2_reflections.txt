@@ -1,0 +1,7 @@
+Added
+
+git branch (shows branches)
+git branch "new-branch" (creates new branch)
+git checkout "new-branch" (moves to new branch of project)
+git add "filename" (stages filename with changes)
+cit committ (committs changes to filename)
